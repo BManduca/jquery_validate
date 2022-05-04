@@ -1,2 +1,2 @@
 # jquery_validate
-Validação e tete para formularios
+Validação e teste para formularios
